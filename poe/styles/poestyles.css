@@ -1,0 +1,28 @@
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+background: url("../images/heart.jpg") no-repeat right bottom fixed; /* heart image in the right bottom corner */
+}
+h1 {
+  text-align: center; /* text will be centered*/
+  font-family: 'Courier New', Courier, monospace;
+}
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+p {
+  background-color: rgba(139, 0, 0, 0.845);
+  color: white; /* text is in white color for better readability */
+}
+table {
+  background-color: rgba(255, 166, 0, 0.569);
+}
+ul {
+  box-shadow: 6px 10px 5px darkred;
+  border-radius: 5px;
+  border: none;
+  background-color: antiquewhite;
+  width: 50%;
+}
