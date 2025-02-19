@@ -28,4 +28,5 @@ ul {
   border: none;
   background-color: antiquewhite;
   width: 50%;
+  list-style: none;
 }
